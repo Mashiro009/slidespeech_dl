@@ -10,8 +10,8 @@ slidespeech_data=/export/data/asr-data/OpenSLR/144/
 
 if [ ${stage} -le -1 ] && [ ${stop_stage} -ge -1 ]; then
     echo "stage -1: Youtube Channel Info Download"
-    wget https://speech-lab-share-data.oss-cn-shanghai.aliyuncs.com/SlideSpeech/wavid2channels.tar.gz .
-    tar -xzvf wavid2channels.tar.gz
+    wget https://speech-lab-share-data.oss-cn-shanghai.aliyuncs.com/SlideSpeech/wavid2channel.tar.gz .
+    tar -xzvf wavid2channel.tar.gz
 fi
 
 if [ ${stage} -le 0 ] && [ ${stop_stage} -ge 0 ]; then
