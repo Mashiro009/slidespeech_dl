@@ -27,8 +27,8 @@ if __name__ == "__main__":
         with open(f"data/{group}/process.sh", 'w') as f:
             for wavid, youtube_channel in wavid2channel.items():
                 idx += 1
-                if idx > 2:
-                    break
+                # if idx > 2:
+                #     break
                 category = wavid.split("_")[0]
                 output_dir = f"{superpath}/{group}/{category}/{wavid}.%(ext)s"
                 process_str = "yt-dlp -f 22 -o '{}' https://www.youtube.com/watch?v={}".format(
