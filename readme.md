@@ -6,6 +6,8 @@ The official related scripts for downloading the Corpus of our ICASSP 2024 paper
 Detailed Website: https://slidespeech.github.io/
 Paper Link: [[Arxiv]](https://arxiv.org/pdf/2309.05396), [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10448079)
 
+We provide the demo scripts in `cal_recall_demo` directory for calculating Recall, U-WER, B-WER, WER. 
+
 ## Authors
 
 Haoxu Wang, Fan Yu, Xian Shi, Yuezhang Wang, Shiliang Zhang, Ming Li
