@@ -1,9 +1,10 @@
 
-# SLIDESPEECH: A Large Scale Slide-Enriched Audio-Visual Corpus
+# SlideSpeech: A Large Scale Slide-Enriched Audio-Visual Corpus
 
-The official related scripts for downloading the Corpus of our ICASSP 2024 paper "SLIDESPEECH: A Large Scale Slide-Enriched Audio-Visual Corpus".
+The official related scripts for downloading the Corpus of our ICASSP 2024 paper "SlideSpeech: A Large Scale Slide-Enriched Audio-Visual Corpus".
 
 Detailed Website: https://slidespeech.github.io/
+Paper Link: [[Arxiv]](https://arxiv.org/pdf/2309.05396), [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10448079)
 
 ## Authors
 
