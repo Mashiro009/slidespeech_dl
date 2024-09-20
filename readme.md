@@ -46,13 +46,16 @@ bash run.sh
 ## Citation
 
 ```
-@misc{wang2023slidespeech,
-    title={SlideSpeech: A Large-Scale Slide-Enriched Audio-Visual Corpus}, 
-    author={Haoxu Wang and Fan Yu and Xian Shi and Yuezhang Wang and Shiliang Zhang and Ming Li},
-    year={2023},
-    eprint={2309.05396},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@INPROCEEDINGS{10448079,
+  author={Wang, Haoxu and Yu, Fan and Shi, Xian and Wang, Yuezhang and Zhang, Shiliang and Li, Ming},
+  booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={SlideSpeech: A Large Scale Slide-Enriched Audio-Visual Corpus}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={11076-11080},
+  keywords={Visualization;Text recognition;Pipelines;Streaming media;Benchmark testing;Web conferencing;Signal processing;audio visual speech recognition;corpus;slides},
+  doi={10.1109/ICASSP48485.2024.10448079}
 }
 ```
 
